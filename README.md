@@ -21,7 +21,7 @@
 </p>
 
 - 👋 Hi, I’m @JeffyDatoh
-- 👀 I’m interested in Speace, High Technology, Innovation
+- 👀 I’m interested in Space, High Technology, Innovation
 - 🌱 I’m currently learning Python, Rust, JavaScript
 <!---
 JeffyDatoh/JeffyDatoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
