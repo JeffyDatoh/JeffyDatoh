@@ -1,5 +1,7 @@
 # Hey! I'm Jeff.
-
+- 👋 Hi, I’m @JeffyDatoh
+- 👀 I’m interested in Space, High Technology, Innovation, Web Development
+- 🌱 I’m currently learning Reactjs, Nextjs, Redux, GraphQL 
 ### Things i code with:
 - #### Web Development:
 <p>
@@ -61,9 +63,6 @@
 </p>
 <hr>
 
-- 👋 Hi, I’m @JeffyDatoh
-- 👀 I’m interested in Space, High Technology, Innovation, Web Development
-- 🌱 I’m currently learning Reactjs, Nextjs
 <!---
 JeffyDatoh/JeffyDatoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
